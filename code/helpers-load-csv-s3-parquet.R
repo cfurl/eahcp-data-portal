@@ -1,3 +1,6 @@
+# This script takes a csv and loads it to s3 as a parquet file
+
+
 # --- User inputs (reusable) ---------------------------------------------------
 local_file     <- "C:/Users/cfurl/OneDrive - Edwards Aquifer Authority/r/eahcp-data-portal/data/fd/dropnet/cm_darters_with_zeros_one_row_one_drop-SUBSET.csv"
 s3_destination <- "s3://eahcp-data-portal/fd-data/"   # prefix (folder) in S3

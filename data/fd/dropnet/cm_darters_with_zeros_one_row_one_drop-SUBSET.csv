@@ -1,332 +1,332 @@
-SiteCode,Species,Length,freq,Reach,Site_No,Date
-190,Etheostoma fonticola,0,0,Upper Spring Run,S1,8/28/2000
-191,Etheostoma fonticola,0,0,Upper Spring Run,S2,8/28/2000
-192,Etheostoma fonticola,0,0,Upper Spring Run,H1,8/28/2000
-193,Etheostoma fonticola,0,0,Upper Spring Run,H2,8/28/2000
-194,Etheostoma fonticola,0,0,Upper Spring Run,GA1,8/28/2000
-195,Etheostoma fonticola,0,0,Upper Spring Run,GA2,8/28/2000
-202,Etheostoma fonticola,0,0,Landa Lake,V1,8/29/2000
-203,Etheostoma fonticola,0,0,Landa Lake,V2,8/29/2000
-196,Etheostoma fonticola,19,4,Landa Lake,O1,8/29/2000
-197,Etheostoma fonticola,12,1,Landa Lake,O2,8/29/2000
-198,Etheostoma fonticola,23,26,Landa Lake,L1,8/29/2000
-199,Etheostoma fonticola,15,53,Landa Lake,L2,8/29/2000
-200,Etheostoma fonticola,14,29,Landa Lake,H1,8/29/2000
-201,Etheostoma fonticola,22,9,Landa Lake,H2,8/29/2000
-204,Etheostoma fonticola,29,2,Landa Lake,C1,8/29/2000
-205,Etheostoma fonticola,20,54,Landa Lake,C2,8/29/2000
-208,Etheostoma fonticola,0,0,Upper New Channel Reach,H3,8/30/2000
-209,Etheostoma fonticola,0,0,Upper New Channel Reach,O1,8/30/2000
-210,Etheostoma fonticola,0,0,Upper New Channel Reach,O2,8/30/2000
-206,Etheostoma fonticola,21,12,Upper New Channel Reach,H1,8/30/2000
-207,Etheostoma fonticola,23,2,Upper New Channel Reach,H2,8/30/2000
-211,Etheostoma fonticola,27,2,Upper New Channel Reach,L1,8/30/2000
-212,Etheostoma fonticola,25,2,Upper New Channel Reach,L2,8/30/2000
-213,Etheostoma fonticola,0,0,Old Channel Reach,CT1,8/31/2000
-214,Etheostoma fonticola,0,0,Old Channel Reach,CT2,8/31/2000
-218,Etheostoma fonticola,0,0,Old Channel Reach,O2,8/31/2000
-215,Etheostoma fonticola,18,11,Old Channel Reach,FA1,8/31/2000
-216,Etheostoma fonticola,29,64,Old Channel Reach,FA2,8/31/2000
-217,Etheostoma fonticola,14,12,Old Channel Reach,O1,8/31/2000
-219,Etheostoma fonticola,0,0,Upper Spring Run,S1,9/11/2000
-220,Etheostoma fonticola,0,0,Upper Spring Run,S2,9/11/2000
-221,Etheostoma fonticola,0,0,Upper Spring Run,H1,9/11/2000
-222,Etheostoma fonticola,0,0,Upper Spring Run,H2,9/11/2000
-223,Etheostoma fonticola,0,0,Upper Spring Run,GA1,9/11/2000
-224,Etheostoma fonticola,0,0,Upper Spring Run,GA2,9/11/2000
-231,Etheostoma fonticola,0,0,Landa Lake,V1,9/12/2000
-225,Etheostoma fonticola,21,1,Landa Lake,O1,9/12/2000
-226,Etheostoma fonticola,24,1,Landa Lake,O2,9/12/2000
-227,Etheostoma fonticola,27,9,Landa Lake,L1,9/12/2000
-228,Etheostoma fonticola,24,6,Landa Lake,L2,9/12/2000
-229,Etheostoma fonticola,28,47,Landa Lake,H1,9/12/2000
-230,Etheostoma fonticola,28,29,Landa Lake,H2,9/12/2000
-232,Etheostoma fonticola,26,6,Landa Lake,V2,9/12/2000
-233,Etheostoma fonticola,24,9,Landa Lake,C1,9/12/2000
-234,Etheostoma fonticola,23,1,Landa Lake,C2,9/12/2000
-242,Etheostoma fonticola,0,0,Old Channel Reach,CT2,9/13/2000
-241,Etheostoma fonticola,22,3,Old Channel Reach,CT1,9/13/2000
-243,Etheostoma fonticola,24,53,Old Channel Reach,FA1,9/13/2000
-244,Etheostoma fonticola,27,85,Old Channel Reach,FA2,9/13/2000
-245,Etheostoma fonticola,27,3,Old Channel Reach,O1,9/13/2000
-246,Etheostoma fonticola,14,11,Old Channel Reach,O2,9/13/2000
-236,Etheostoma fonticola,0,0,Upper New Channel Reach,H2,9/14/2000
-238,Etheostoma fonticola,0,0,Upper New Channel Reach,O2,9/14/2000
-239,Etheostoma fonticola,0,0,Upper New Channel Reach,L1,9/14/2000
-235,Etheostoma fonticola,21,5,Upper New Channel Reach,H1,9/14/2000
-237,Etheostoma fonticola,28,1,Upper New Channel Reach,O1,9/14/2000
-240,Etheostoma fonticola,24,1,Upper New Channel Reach,L2,9/14/2000
-139,Etheostoma fonticola,0,0,Upper Spring Run,S1,11/13/2000
-140,Etheostoma fonticola,0,0,Upper Spring Run,S2,11/13/2000
-143,Etheostoma fonticola,0,0,Upper Spring Run,O1,11/13/2000
-144,Etheostoma fonticola,0,0,Upper Spring Run,O2,11/13/2000
-141,Etheostoma fonticola,26,9,Upper Spring Run,H1,11/13/2000
-142,Etheostoma fonticola,23,1,Upper Spring Run,H2,11/13/2000
-146,Etheostoma fonticola,26,1,Landa Lake,O2,11/13/2000
-148,Etheostoma fonticola,32,10,Landa Lake,L2,11/13/2000
-149,Etheostoma fonticola,30,11,Landa Lake,H1,11/13/2000
-152,Etheostoma fonticola,0,0,Landa Lake,V2,11/14/2000
-145,Etheostoma fonticola,23,1,Landa Lake,O1,11/14/2000
-147,Etheostoma fonticola,30,19,Landa Lake,L1,11/14/2000
-150,Etheostoma fonticola,31,1,Landa Lake,H2,11/14/2000
-151,Etheostoma fonticola,30,1,Landa Lake,V1,11/14/2000
-153,Etheostoma fonticola,24,10,Landa Lake,C1,11/14/2000
-154,Etheostoma fonticola,29,2,Landa Lake,C2,11/14/2000
-158,Etheostoma fonticola,0,0,Upper New Channel Reach,O2,11/15/2000
-155,Etheostoma fonticola,27,3,Upper New Channel Reach,H1,11/15/2000
-156,Etheostoma fonticola,18,2,Upper New Channel Reach,H2,11/15/2000
-157,Etheostoma fonticola,19,4,Upper New Channel Reach,H3,11/15/2000
-164,Etheostoma fonticola,0,0,Old Channel Reach,O2,11/16/2000
-159,Etheostoma fonticola,19,6,Old Channel Reach,CT1,11/16/2000
-160,Etheostoma fonticola,23,2,Old Channel Reach,CT2,11/16/2000
-161,Etheostoma fonticola,21,6,Old Channel Reach,FA1,11/16/2000
-162,Etheostoma fonticola,25,3,Old Channel Reach,FA2,11/16/2000
-163,Etheostoma fonticola,31,11,Old Channel Reach,O1,11/16/2000
-17,Etheostoma fonticola,0,0,Upper Spring Run,S1,3/19/2001
-18,Etheostoma fonticola,0,0,Upper Spring Run,S2,3/19/2001
-19,Etheostoma fonticola,0,0,Upper Spring Run,H1,3/19/2001
-20,Etheostoma fonticola,0,0,Upper Spring Run,H2,3/19/2001
-21,Etheostoma fonticola,0,0,Upper Spring Run,O1,3/19/2001
-22,Etheostoma fonticola,0,0,Upper Spring Run,O2,3/19/2001
-23,Etheostoma fonticola,14,30,Landa Lake,O1,3/19/2001
-24,Etheostoma fonticola,14,15,Landa Lake,O2,3/19/2001
-25,Etheostoma fonticola,33,4,Landa Lake,L1,3/19/2001
-27,Etheostoma fonticola,20,1,Landa Lake,H1,3/19/2001
-26,Etheostoma fonticola,27,12,Landa Lake,L2,3/20/2001
-28,Etheostoma fonticola,32,7,Landa Lake,H2,3/20/2001
-29,Etheostoma fonticola,30,3,Landa Lake,V1,3/20/2001
-30,Etheostoma fonticola,14,4,Landa Lake,V2,3/20/2001
-31,Etheostoma fonticola,28,10,Landa Lake,C1,3/20/2001
-32,Etheostoma fonticola,15,6,Landa Lake,C2,3/20/2001
-33,Etheostoma fonticola,28,1,Upper New Channel Reach,H1,3/20/2001
-34,Etheostoma fonticola,20,1,Upper New Channel Reach,H2,3/20/2001
-35,Etheostoma fonticola,32,4,Old Channel Reach,CT1,3/21/2001
-36,Etheostoma fonticola,19,7,Old Channel Reach,CT2,3/21/2001
-37,Etheostoma fonticola,21,84,Old Channel Reach,FA1,3/21/2001
-38,Etheostoma fonticola,28,8,Old Channel Reach,FA2,3/21/2001
-39,Etheostoma fonticola,21,7,Old Channel Reach,O1,3/21/2001
-40,Etheostoma fonticola,15,6,Old Channel Reach,O2,3/21/2001
-58,Etheostoma fonticola,0,0,Upper Spring Run,S2,5/21/2001
-61,Etheostoma fonticola,0,0,Upper Spring Run,O1,5/21/2001
-62,Etheostoma fonticola,0,0,Upper Spring Run,O2,5/21/2001
-64,Etheostoma fonticola,0,0,Landa Lake,O2,5/21/2001
-69,Etheostoma fonticola,0,0,Landa Lake,V1,5/21/2001
-57,Etheostoma fonticola,33,1,Upper Spring Run,S1,5/21/2001
-59,Etheostoma fonticola,22,1,Upper Spring Run,H1,5/21/2001
-60,Etheostoma fonticola,30,1,Upper Spring Run,H2,5/21/2001
-63,Etheostoma fonticola,22,3,Landa Lake,O1,5/21/2001
-65,Etheostoma fonticola,12,47,Landa Lake,L1,5/21/2001
-80,Etheostoma fonticola,0,0,Old Channel Reach,O1,5/22/2001
-81,Etheostoma fonticola,0,0,Old Channel Reach,O2,5/22/2001
-66,Etheostoma fonticola,23,34,Landa Lake,L2,5/22/2001
-67,Etheostoma fonticola,30,26,Landa Lake,H1,5/22/2001
-68,Etheostoma fonticola,19,42,Landa Lake,H2,5/22/2001
-70,Etheostoma fonticola,24,1,Landa Lake,V2,5/22/2001
-71,Etheostoma fonticola,22,37,Landa Lake,C1,5/22/2001
-72,Etheostoma fonticola,18,45,Landa Lake,C2,5/22/2001
-76,Etheostoma fonticola,28,6,Old Channel Reach,CT1,5/22/2001
-77,Etheostoma fonticola,16,18,Old Channel Reach,CT2,5/22/2001
-78,Etheostoma fonticola,21,123,Old Channel Reach,FA1,5/22/2001
-79,Etheostoma fonticola,26,16,Old Channel Reach,FA2,5/22/2001
-73,Etheostoma fonticola,23,4,Upper New Channel Reach,H1,5/24/2001
-74,Etheostoma fonticola,20,8,Upper New Channel Reach,H2,5/24/2001
-75,Etheostoma fonticola,29,3,Upper New Channel Reach,H3,5/24/2001
-98,Etheostoma fonticola,0,0,Upper Spring Run,S1,8/27/2001
-99,Etheostoma fonticola,0,0,Upper Spring Run,S2,8/27/2001
-100,Etheostoma fonticola,0,0,Upper Spring Run,H1,8/27/2001
-101,Etheostoma fonticola,0,0,Upper Spring Run,H2,8/27/2001
-102,Etheostoma fonticola,29,8,Upper Spring Run,R1,8/27/2001
-103,Etheostoma fonticola,32,4,Upper Spring Run,R2,8/27/2001
-110,Etheostoma fonticola,0,0,Landa Lake,V1,8/28/2001
-104,Etheostoma fonticola,21,122,Landa Lake,R1,8/28/2001
-105,Etheostoma fonticola,35,54,Landa Lake,R2,8/28/2001
-106,Etheostoma fonticola,21,9,Landa Lake,L1,8/28/2001
-107,Etheostoma fonticola,38,34,Landa Lake,L2,8/28/2001
-108,Etheostoma fonticola,20,13,Landa Lake,H1,8/28/2001
-109,Etheostoma fonticola,28,17,Landa Lake,H2,8/28/2001
-111,Etheostoma fonticola,34,16,Landa Lake,V2,8/28/2001
-112,Etheostoma fonticola,29,35,Landa Lake,C1,8/28/2001
-113,Etheostoma fonticola,24,32,Landa Lake,C2,8/28/2001
-116,Etheostoma fonticola,0,0,Upper New Channel Reach,H3,8/29/2001
-122,Etheostoma fonticola,0,0,Old Channel Reach,O2,8/29/2001
-114,Etheostoma fonticola,21,17,Upper New Channel Reach,H1,8/29/2001
-115,Etheostoma fonticola,15,8,Upper New Channel Reach,H2,8/29/2001
-117,Etheostoma fonticola,31,4,Old Channel Reach,CT1,8/29/2001
-118,Etheostoma fonticola,25,1,Old Channel Reach,CT2,8/29/2001
-119,Etheostoma fonticola,22,8,Old Channel Reach,FA1,8/29/2001
-120,Etheostoma fonticola,23,93,Old Channel Reach,FA2,8/29/2001
-121,Etheostoma fonticola,33,2,Old Channel Reach,O1,8/29/2001
-165,Etheostoma fonticola,0,0,Upper Spring Run,S1,10/1/2001
-166,Etheostoma fonticola,0,0,Upper Spring Run,S2,10/1/2001
-167,Etheostoma fonticola,0,0,Upper Spring Run,H1,10/1/2001
-168,Etheostoma fonticola,0,0,Upper Spring Run,H2,10/1/2001
-170,Etheostoma fonticola,0,0,Upper Spring Run,R2,10/1/2001
-169,Etheostoma fonticola,26,1,Upper Spring Run,R1,10/1/2001
-175,Etheostoma fonticola,30,19,Landa Lake,H1,10/1/2001
-176,Etheostoma fonticola,27,21,Landa Lake,H2,10/1/2001
-171,Etheostoma fonticola,23,61,Landa Lake,R1,10/2/2001
-172,Etheostoma fonticola,22,43,Landa Lake,R2,10/2/2001
-173,Etheostoma fonticola,23,24,Landa Lake,L1,10/2/2001
-174,Etheostoma fonticola,24,16,Landa Lake,L2,10/2/2001
-177,Etheostoma fonticola,35,16,Landa Lake,V2,10/2/2001
-178,Etheostoma fonticola,33,1,Landa Lake,V1,10/2/2001
-179,Etheostoma fonticola,27,17,Landa Lake,C1,10/2/2001
-180,Etheostoma fonticola,22,8,Landa Lake,C2,10/2/2001
-181,Etheostoma fonticola,32,2,Upper New Channel Reach,H1,10/2/2001
-182,Etheostoma fonticola,17,4,Upper New Channel Reach,H2,10/2/2001
-183,Etheostoma fonticola,34,1,Upper New Channel Reach,H3,10/2/2001
-184,Etheostoma fonticola,0,0,Old Channel Reach,CT1,10/3/2001
-189,Etheostoma fonticola,0,0,Old Channel Reach,O2,10/3/2001
-185,Etheostoma fonticola,21,1,Old Channel Reach,CT2,10/3/2001
-186,Etheostoma fonticola,29,59,Old Channel Reach,FA1,10/3/2001
-187,Etheostoma fonticola,23,18,Old Channel Reach,FA2,10/3/2001
-188,Etheostoma fonticola,28,6,Old Channel Reach,O1,10/3/2001
-263,Etheostoma fonticola,0,0,Upper Spring Run,S1,11/5/2001
-264,Etheostoma fonticola,0,0,Upper Spring Run,S2,11/5/2001
-265,Etheostoma fonticola,0,0,Upper Spring Run,H1,11/5/2001
-266,Etheostoma fonticola,18,2,Upper Spring Run,H2,11/5/2001
-267,Etheostoma fonticola,30,3,Upper Spring Run,R1,11/5/2001
-268,Etheostoma fonticola,27,1,Upper Spring Run,R2,11/5/2001
-271,Etheostoma fonticola,22,21,Landa Lake,L1,11/5/2001
-272,Etheostoma fonticola,28,21,Landa Lake,L2,11/5/2001
-273,Etheostoma fonticola,25,10,Landa Lake,H1,11/5/2001
-274,Etheostoma fonticola,30,13,Landa Lake,H2,11/5/2001
-275,Etheostoma fonticola,25,1,Landa Lake,V1,11/5/2001
-277,Etheostoma fonticola,33,5,Landa Lake,C1,11/5/2001
-269,Etheostoma fonticola,19,56,Landa Lake,R1,11/6/2001
-270,Etheostoma fonticola,31,89,Landa Lake,R2,11/6/2001
-276,Etheostoma fonticola,31,3,Landa Lake,V2,11/6/2001
-278,Etheostoma fonticola,26,2,Landa Lake,C2,11/6/2001
-279,Etheostoma fonticola,32,5,Upper New Channel Reach,H1,11/6/2001
-280,Etheostoma fonticola,35,7,Upper New Channel Reach,H2,11/6/2001
-281,Etheostoma fonticola,32,1,Upper New Channel Reach,H3,11/6/2001
-286,Etheostoma fonticola,0,0,Old Channel Reach,O1,11/7/2001
-282,Etheostoma fonticola,29,2,Old Channel Reach,CT1,11/7/2001
-283,Etheostoma fonticola,23,4,Old Channel Reach,CT2,11/7/2001
-284,Etheostoma fonticola,27,27,Old Channel Reach,FA1,11/7/2001
-285,Etheostoma fonticola,25,9,Old Channel Reach,FA2,11/7/2001
-287,Etheostoma fonticola,31,16,Old Channel Reach,O2,11/7/2001
-288,Etheostoma fonticola,0,0,Upper Spring Run,S1,11/27/2001
-289,Etheostoma fonticola,0,0,Upper Spring Run,S2,11/27/2001
-291,Etheostoma fonticola,0,0,Upper Spring Run,H2,11/27/2001
-290,Etheostoma fonticola,39,1,Upper Spring Run,H1,11/27/2001
-292,Etheostoma fonticola,31,3,Upper Spring Run,R1,11/27/2001
-293,Etheostoma fonticola,32,6,Upper Spring Run,R2,11/27/2001
-296,Etheostoma fonticola,34,34,Landa Lake,L1,11/27/2001
-297,Etheostoma fonticola,31,7,Landa Lake,L2,11/27/2001
-298,Etheostoma fonticola,33,30,Landa Lake,H1,11/27/2001
-299,Etheostoma fonticola,24,4,Landa Lake,H2,11/27/2001
-301,Etheostoma fonticola,0,0,Landa Lake,V2,11/28/2001
-303,Etheostoma fonticola,0,0,Landa Lake,C2,11/28/2001
-294,Etheostoma fonticola,25,59,Landa Lake,R1,11/28/2001
-295,Etheostoma fonticola,24,46,Landa Lake,R2,11/28/2001
-300,Etheostoma fonticola,31,1,Landa Lake,V1,11/28/2001
-302,Etheostoma fonticola,24,23,Landa Lake,C1,11/28/2001
-308,Etheostoma fonticola,0,0,Old Channel Reach,CT2,11/29/2001
-311,Etheostoma fonticola,0,0,Old Channel Reach,O1,11/29/2001
-312,Etheostoma fonticola,0,0,Old Channel Reach,O2,11/29/2001
-304,Etheostoma fonticola,30,4,Upper New Channel Reach,H1,11/29/2001
-305,Etheostoma fonticola,31,3,Upper New Channel Reach,H2,11/29/2001
-306,Etheostoma fonticola,29,1,Upper New Channel Reach,H3,11/29/2001
-307,Etheostoma fonticola,28,10,Old Channel Reach,CT1,11/29/2001
-309,Etheostoma fonticola,27,53,Old Channel Reach,FA1,11/29/2001
-310,Etheostoma fonticola,20,54,Old Channel Reach,FA2,11/29/2001
-345,Etheostoma fonticola,0,0,Upper Spring Run,S1,2/25/2002
-346,Etheostoma fonticola,0,0,Upper Spring Run,S2,2/25/2002
-347,Etheostoma fonticola,0,0,Upper Spring Run,H1,2/25/2002
-348,Etheostoma fonticola,12,2,Upper Spring Run,H2,2/25/2002
-349,Etheostoma fonticola,24,13,Upper Spring Run,R1,2/25/2002
-350,Etheostoma fonticola,26,14,Upper Spring Run,R2,2/25/2002
-351,Etheostoma fonticola,27,23,Landa Lake,R1,2/25/2002
-352,Etheostoma fonticola,28,16,Landa Lake,R2,2/25/2002
-357,Etheostoma fonticola,31,5,Landa Lake,V1,2/25/2002
-359,Etheostoma fonticola,30,14,Landa Lake,C1,2/25/2002
-360,Etheostoma fonticola,34,28,Landa Lake,C2,2/25/2002
-365,Etheostoma fonticola,0,0,Old Channel Reach,CT2,2/27/2002
-369,Etheostoma fonticola,0,0,Old Channel Reach,O2,2/27/2002
-353,Etheostoma fonticola,27,7,Landa Lake,L1,2/27/2002
-354,Etheostoma fonticola,25,14,Landa Lake,L2,2/27/2002
-355,Etheostoma fonticola,33,1,Landa Lake,H1,2/27/2002
-356,Etheostoma fonticola,32,23,Landa Lake,H2,2/27/2002
-358,Etheostoma fonticola,13,1,Landa Lake,V2,2/27/2002
-364,Etheostoma fonticola,24,1,Old Channel Reach,CT1,2/27/2002
-366,Etheostoma fonticola,30,19,Old Channel Reach,FA1,2/27/2002
-367,Etheostoma fonticola,16,118,Old Channel Reach,FA2,2/27/2002
-368,Etheostoma fonticola,24,6,Old Channel Reach,O1,2/27/2002
-363,Etheostoma fonticola,0,0,Upper New Channel Reach,H3,2/28/2002
-361,Etheostoma fonticola,16,10,Upper New Channel Reach,H1,2/28/2002
-362,Etheostoma fonticola,16,13,Upper New Channel Reach,H2,2/28/2002
-386,Etheostoma fonticola,0,0,Upper Spring Run,S1,5/20/2002
-387,Etheostoma fonticola,0,0,Upper Spring Run,S2,5/20/2002
-388,Etheostoma fonticola,0,0,Upper Spring Run,H1,5/20/2002
-389,Etheostoma fonticola,27,7,Upper Spring Run,H2,5/20/2002
-390,Etheostoma fonticola,31,84,Upper Spring Run,R1,5/20/2002
-391,Etheostoma fonticola,16,19,Upper Spring Run,R2,5/20/2002
-396,Etheostoma fonticola,26,22,Landa Lake,H1,5/20/2002
-397,Etheostoma fonticola,34,33,Landa Lake,H2,5/20/2002
-399,Etheostoma fonticola,0,0,Landa Lake,V2,5/21/2002
-392,Etheostoma fonticola,31,91,Landa Lake,R1,5/21/2002
-393,Etheostoma fonticola,30,29,Landa Lake,R2,5/21/2002
-394,Etheostoma fonticola,29,22,Landa Lake,L1,5/21/2002
-395,Etheostoma fonticola,34,35,Landa Lake,L2,5/21/2002
-398,Etheostoma fonticola,35,1,Landa Lake,V1,5/21/2002
-400,Etheostoma fonticola,25,12,Landa Lake,C1,5/21/2002
-401,Etheostoma fonticola,31,2,Landa Lake,C2,5/21/2002
-409,Etheostoma fonticola,0,0,Old Channel Reach,O1,5/22/2002
-410,Etheostoma fonticola,0,0,Old Channel Reach,O2,5/22/2002
-402,Etheostoma fonticola,29,8,Upper New Channel Reach,H1,5/22/2002
-403,Etheostoma fonticola,17,12,Upper New Channel Reach,H2,5/22/2002
-404,Etheostoma fonticola,23,27,Upper New Channel Reach,H3,5/22/2002
-405,Etheostoma fonticola,18,6,Old Channel Reach,CT1,5/22/2002
-406,Etheostoma fonticola,17,35,Old Channel Reach,CT2,5/22/2002
-407,Etheostoma fonticola,22,152,Old Channel Reach,FA1,5/22/2002
-408,Etheostoma fonticola,22,210,Old Channel Reach,FA2,5/22/2002
-431,Etheostoma fonticola,0,0,Upper Spring Run,R1,8/6/2002
-427,Etheostoma fonticola,23,4,Upper Spring Run,S1,8/6/2002
-428,Etheostoma fonticola,36,21,Upper Spring Run,S2,8/6/2002
-429,Etheostoma fonticola,34,11,Upper Spring Run,H1,8/6/2002
-430,Etheostoma fonticola,36,2,Upper Spring Run,H2,8/6/2002
-432,Etheostoma fonticola,22,3,Upper Spring Run,R2,8/6/2002
-435,Etheostoma fonticola,45,31,Landa Lake,L1,8/6/2002
-436,Etheostoma fonticola,36,51,Landa Lake,L2,8/6/2002
-439,Etheostoma fonticola,30,18,Landa Lake,V1,8/6/2002
-440,Etheostoma fonticola,0,0,Landa Lake,V2,8/7/2002
-433,Etheostoma fonticola,30,134,Landa Lake,R1,8/7/2002
-434,Etheostoma fonticola,20,49,Landa Lake,R2,8/7/2002
-437,Etheostoma fonticola,35,41,Landa Lake,H1,8/7/2002
-438,Etheostoma fonticola,26,76,Landa Lake,H2,8/7/2002
-441,Etheostoma fonticola,25,9,Landa Lake,C1,8/7/2002
-442,Etheostoma fonticola,27,21,Landa Lake,C2,8/7/2002
-451,Etheostoma fonticola,0,0,Old Channel Reach,O2,8/8/2002
-443,Etheostoma fonticola,27,4,Upper New Channel Reach,H1,8/8/2002
-444,Etheostoma fonticola,18,7,Upper New Channel Reach,H2,8/8/2002
-445,Etheostoma fonticola,27,9,Upper New Channel Reach,H3,8/8/2002
-446,Etheostoma fonticola,24,22,Old Channel Reach,CT1,8/8/2002
-447,Etheostoma fonticola,27,3,Old Channel Reach,CT2,8/8/2002
-448,Etheostoma fonticola,25,55,Old Channel Reach,FA1,8/8/2002
-449,Etheostoma fonticola,23,55,Old Channel Reach,FA2,8/8/2002
-450,Etheostoma fonticola,18,1,Old Channel Reach,O1,8/8/2002
-468,Etheostoma fonticola,0,0,Upper Spring Run,S1,11/19/2002
-469,Etheostoma fonticola,0,0,Upper Spring Run,S2,11/19/2002
-470,Etheostoma fonticola,30,3,Upper Spring Run,H1,11/19/2002
-471,Etheostoma fonticola,28,10,Upper Spring Run,H2,11/19/2002
-472,Etheostoma fonticola,26,14,Upper Spring Run,R1,11/19/2002
-473,Etheostoma fonticola,28,16,Upper Spring Run,R2,11/19/2002
-474,Etheostoma fonticola,32,20,Landa Lake,R1,11/20/2002
-475,Etheostoma fonticola,32,33,Landa Lake,R2,11/20/2002
-476,Etheostoma fonticola,34,21,Landa Lake,L1,11/20/2002
-477,Etheostoma fonticola,22,27,Landa Lake,L2,11/20/2002
-478,Etheostoma fonticola,37,15,Landa Lake,H1,11/20/2002
-479,Etheostoma fonticola,22,10,Landa Lake,H2,11/20/2002
-480,Etheostoma fonticola,28,9,Landa Lake,V1,11/20/2002
-481,Etheostoma fonticola,25,1,Landa Lake,V2,11/20/2002
-482,Etheostoma fonticola,20,69,Landa Lake,C1,11/20/2002
-483,Etheostoma fonticola,24,85,Landa Lake,C2,11/20/2002
-490,Etheostoma fonticola,0,0,Old Channel Reach,O1,11/21/2002
-484,Etheostoma fonticola,33,2,Upper New Channel Reach,H1,11/21/2002
-485,Etheostoma fonticola,34,1,Upper New Channel Reach,H2,11/21/2002
-486,Etheostoma fonticola,30,5,Old Channel Reach,CT2,11/21/2002
-487,Etheostoma fonticola,28,4,Old Channel Reach,CT1,11/21/2002
-488,Etheostoma fonticola,18,85,Old Channel Reach,FA1,11/21/2002
-489,Etheostoma fonticola,33,22,Old Channel Reach,FA2,11/21/2002
-491,Etheostoma fonticola,25,1,Old Channel Reach,O2,11/21/2002
+freq,Reach,Date
+0,Upper Spring Run,8/28/2000
+0,Upper Spring Run,8/28/2000
+0,Upper Spring Run,8/28/2000
+0,Upper Spring Run,8/28/2000
+0,Upper Spring Run,8/28/2000
+0,Upper Spring Run,8/28/2000
+0,Landa Lake,8/29/2000
+0,Landa Lake,8/29/2000
+4,Landa Lake,8/29/2000
+1,Landa Lake,8/29/2000
+26,Landa Lake,8/29/2000
+53,Landa Lake,8/29/2000
+29,Landa Lake,8/29/2000
+9,Landa Lake,8/29/2000
+2,Landa Lake,8/29/2000
+54,Landa Lake,8/29/2000
+0,Upper New Channel Reach,8/30/2000
+0,Upper New Channel Reach,8/30/2000
+0,Upper New Channel Reach,8/30/2000
+12,Upper New Channel Reach,8/30/2000
+2,Upper New Channel Reach,8/30/2000
+2,Upper New Channel Reach,8/30/2000
+2,Upper New Channel Reach,8/30/2000
+0,Old Channel Reach,8/31/2000
+0,Old Channel Reach,8/31/2000
+0,Old Channel Reach,8/31/2000
+11,Old Channel Reach,8/31/2000
+64,Old Channel Reach,8/31/2000
+12,Old Channel Reach,8/31/2000
+0,Upper Spring Run,9/11/2000
+0,Upper Spring Run,9/11/2000
+0,Upper Spring Run,9/11/2000
+0,Upper Spring Run,9/11/2000
+0,Upper Spring Run,9/11/2000
+0,Upper Spring Run,9/11/2000
+0,Landa Lake,9/12/2000
+1,Landa Lake,9/12/2000
+1,Landa Lake,9/12/2000
+9,Landa Lake,9/12/2000
+6,Landa Lake,9/12/2000
+47,Landa Lake,9/12/2000
+29,Landa Lake,9/12/2000
+6,Landa Lake,9/12/2000
+9,Landa Lake,9/12/2000
+1,Landa Lake,9/12/2000
+0,Old Channel Reach,9/13/2000
+3,Old Channel Reach,9/13/2000
+53,Old Channel Reach,9/13/2000
+85,Old Channel Reach,9/13/2000
+3,Old Channel Reach,9/13/2000
+11,Old Channel Reach,9/13/2000
+0,Upper New Channel Reach,9/14/2000
+0,Upper New Channel Reach,9/14/2000
+0,Upper New Channel Reach,9/14/2000
+5,Upper New Channel Reach,9/14/2000
+1,Upper New Channel Reach,9/14/2000
+1,Upper New Channel Reach,9/14/2000
+0,Upper Spring Run,11/13/2000
+0,Upper Spring Run,11/13/2000
+0,Upper Spring Run,11/13/2000
+0,Upper Spring Run,11/13/2000
+9,Upper Spring Run,11/13/2000
+1,Upper Spring Run,11/13/2000
+1,Landa Lake,11/13/2000
+10,Landa Lake,11/13/2000
+11,Landa Lake,11/13/2000
+0,Landa Lake,11/14/2000
+1,Landa Lake,11/14/2000
+19,Landa Lake,11/14/2000
+1,Landa Lake,11/14/2000
+1,Landa Lake,11/14/2000
+10,Landa Lake,11/14/2000
+2,Landa Lake,11/14/2000
+0,Upper New Channel Reach,11/15/2000
+3,Upper New Channel Reach,11/15/2000
+2,Upper New Channel Reach,11/15/2000
+4,Upper New Channel Reach,11/15/2000
+0,Old Channel Reach,11/16/2000
+6,Old Channel Reach,11/16/2000
+2,Old Channel Reach,11/16/2000
+6,Old Channel Reach,11/16/2000
+3,Old Channel Reach,11/16/2000
+11,Old Channel Reach,11/16/2000
+0,Upper Spring Run,3/19/2001
+0,Upper Spring Run,3/19/2001
+0,Upper Spring Run,3/19/2001
+0,Upper Spring Run,3/19/2001
+0,Upper Spring Run,3/19/2001
+0,Upper Spring Run,3/19/2001
+30,Landa Lake,3/19/2001
+15,Landa Lake,3/19/2001
+4,Landa Lake,3/19/2001
+1,Landa Lake,3/19/2001
+12,Landa Lake,3/20/2001
+7,Landa Lake,3/20/2001
+3,Landa Lake,3/20/2001
+4,Landa Lake,3/20/2001
+10,Landa Lake,3/20/2001
+6,Landa Lake,3/20/2001
+1,Upper New Channel Reach,3/20/2001
+1,Upper New Channel Reach,3/20/2001
+4,Old Channel Reach,3/21/2001
+7,Old Channel Reach,3/21/2001
+84,Old Channel Reach,3/21/2001
+8,Old Channel Reach,3/21/2001
+7,Old Channel Reach,3/21/2001
+6,Old Channel Reach,3/21/2001
+0,Upper Spring Run,5/21/2001
+0,Upper Spring Run,5/21/2001
+0,Upper Spring Run,5/21/2001
+0,Landa Lake,5/21/2001
+0,Landa Lake,5/21/2001
+1,Upper Spring Run,5/21/2001
+1,Upper Spring Run,5/21/2001
+1,Upper Spring Run,5/21/2001
+3,Landa Lake,5/21/2001
+47,Landa Lake,5/21/2001
+0,Old Channel Reach,5/22/2001
+0,Old Channel Reach,5/22/2001
+34,Landa Lake,5/22/2001
+26,Landa Lake,5/22/2001
+42,Landa Lake,5/22/2001
+1,Landa Lake,5/22/2001
+37,Landa Lake,5/22/2001
+45,Landa Lake,5/22/2001
+6,Old Channel Reach,5/22/2001
+18,Old Channel Reach,5/22/2001
+123,Old Channel Reach,5/22/2001
+16,Old Channel Reach,5/22/2001
+4,Upper New Channel Reach,5/24/2001
+8,Upper New Channel Reach,5/24/2001
+3,Upper New Channel Reach,5/24/2001
+0,Upper Spring Run,8/27/2001
+0,Upper Spring Run,8/27/2001
+0,Upper Spring Run,8/27/2001
+0,Upper Spring Run,8/27/2001
+8,Upper Spring Run,8/27/2001
+4,Upper Spring Run,8/27/2001
+0,Landa Lake,8/28/2001
+122,Landa Lake,8/28/2001
+54,Landa Lake,8/28/2001
+9,Landa Lake,8/28/2001
+34,Landa Lake,8/28/2001
+13,Landa Lake,8/28/2001
+17,Landa Lake,8/28/2001
+16,Landa Lake,8/28/2001
+35,Landa Lake,8/28/2001
+32,Landa Lake,8/28/2001
+0,Upper New Channel Reach,8/29/2001
+0,Old Channel Reach,8/29/2001
+17,Upper New Channel Reach,8/29/2001
+8,Upper New Channel Reach,8/29/2001
+4,Old Channel Reach,8/29/2001
+1,Old Channel Reach,8/29/2001
+8,Old Channel Reach,8/29/2001
+93,Old Channel Reach,8/29/2001
+2,Old Channel Reach,8/29/2001
+0,Upper Spring Run,10/1/2001
+0,Upper Spring Run,10/1/2001
+0,Upper Spring Run,10/1/2001
+0,Upper Spring Run,10/1/2001
+0,Upper Spring Run,10/1/2001
+1,Upper Spring Run,10/1/2001
+19,Landa Lake,10/1/2001
+21,Landa Lake,10/1/2001
+61,Landa Lake,10/2/2001
+43,Landa Lake,10/2/2001
+24,Landa Lake,10/2/2001
+16,Landa Lake,10/2/2001
+16,Landa Lake,10/2/2001
+1,Landa Lake,10/2/2001
+17,Landa Lake,10/2/2001
+8,Landa Lake,10/2/2001
+2,Upper New Channel Reach,10/2/2001
+4,Upper New Channel Reach,10/2/2001
+1,Upper New Channel Reach,10/2/2001
+0,Old Channel Reach,10/3/2001
+0,Old Channel Reach,10/3/2001
+1,Old Channel Reach,10/3/2001
+59,Old Channel Reach,10/3/2001
+18,Old Channel Reach,10/3/2001
+6,Old Channel Reach,10/3/2001
+0,Upper Spring Run,11/5/2001
+0,Upper Spring Run,11/5/2001
+0,Upper Spring Run,11/5/2001
+2,Upper Spring Run,11/5/2001
+3,Upper Spring Run,11/5/2001
+1,Upper Spring Run,11/5/2001
+21,Landa Lake,11/5/2001
+21,Landa Lake,11/5/2001
+10,Landa Lake,11/5/2001
+13,Landa Lake,11/5/2001
+1,Landa Lake,11/5/2001
+5,Landa Lake,11/5/2001
+56,Landa Lake,11/6/2001
+89,Landa Lake,11/6/2001
+3,Landa Lake,11/6/2001
+2,Landa Lake,11/6/2001
+5,Upper New Channel Reach,11/6/2001
+7,Upper New Channel Reach,11/6/2001
+1,Upper New Channel Reach,11/6/2001
+0,Old Channel Reach,11/7/2001
+2,Old Channel Reach,11/7/2001
+4,Old Channel Reach,11/7/2001
+27,Old Channel Reach,11/7/2001
+9,Old Channel Reach,11/7/2001
+16,Old Channel Reach,11/7/2001
+0,Upper Spring Run,11/27/2001
+0,Upper Spring Run,11/27/2001
+0,Upper Spring Run,11/27/2001
+1,Upper Spring Run,11/27/2001
+3,Upper Spring Run,11/27/2001
+6,Upper Spring Run,11/27/2001
+34,Landa Lake,11/27/2001
+7,Landa Lake,11/27/2001
+30,Landa Lake,11/27/2001
+4,Landa Lake,11/27/2001
+0,Landa Lake,11/28/2001
+0,Landa Lake,11/28/2001
+59,Landa Lake,11/28/2001
+46,Landa Lake,11/28/2001
+1,Landa Lake,11/28/2001
+23,Landa Lake,11/28/2001
+0,Old Channel Reach,11/29/2001
+0,Old Channel Reach,11/29/2001
+0,Old Channel Reach,11/29/2001
+4,Upper New Channel Reach,11/29/2001
+3,Upper New Channel Reach,11/29/2001
+1,Upper New Channel Reach,11/29/2001
+10,Old Channel Reach,11/29/2001
+53,Old Channel Reach,11/29/2001
+54,Old Channel Reach,11/29/2001
+0,Upper Spring Run,2/25/2002
+0,Upper Spring Run,2/25/2002
+0,Upper Spring Run,2/25/2002
+2,Upper Spring Run,2/25/2002
+13,Upper Spring Run,2/25/2002
+14,Upper Spring Run,2/25/2002
+23,Landa Lake,2/25/2002
+16,Landa Lake,2/25/2002
+5,Landa Lake,2/25/2002
+14,Landa Lake,2/25/2002
+28,Landa Lake,2/25/2002
+0,Old Channel Reach,2/27/2002
+0,Old Channel Reach,2/27/2002
+7,Landa Lake,2/27/2002
+14,Landa Lake,2/27/2002
+1,Landa Lake,2/27/2002
+23,Landa Lake,2/27/2002
+1,Landa Lake,2/27/2002
+1,Old Channel Reach,2/27/2002
+19,Old Channel Reach,2/27/2002
+118,Old Channel Reach,2/27/2002
+6,Old Channel Reach,2/27/2002
+0,Upper New Channel Reach,2/28/2002
+10,Upper New Channel Reach,2/28/2002
+13,Upper New Channel Reach,2/28/2002
+0,Upper Spring Run,5/20/2002
+0,Upper Spring Run,5/20/2002
+0,Upper Spring Run,5/20/2002
+7,Upper Spring Run,5/20/2002
+84,Upper Spring Run,5/20/2002
+19,Upper Spring Run,5/20/2002
+22,Landa Lake,5/20/2002
+33,Landa Lake,5/20/2002
+0,Landa Lake,5/21/2002
+91,Landa Lake,5/21/2002
+29,Landa Lake,5/21/2002
+22,Landa Lake,5/21/2002
+35,Landa Lake,5/21/2002
+1,Landa Lake,5/21/2002
+12,Landa Lake,5/21/2002
+2,Landa Lake,5/21/2002
+0,Old Channel Reach,5/22/2002
+0,Old Channel Reach,5/22/2002
+8,Upper New Channel Reach,5/22/2002
+12,Upper New Channel Reach,5/22/2002
+27,Upper New Channel Reach,5/22/2002
+6,Old Channel Reach,5/22/2002
+35,Old Channel Reach,5/22/2002
+152,Old Channel Reach,5/22/2002
+210,Old Channel Reach,5/22/2002
+0,Upper Spring Run,8/6/2002
+4,Upper Spring Run,8/6/2002
+21,Upper Spring Run,8/6/2002
+11,Upper Spring Run,8/6/2002
+2,Upper Spring Run,8/6/2002
+3,Upper Spring Run,8/6/2002
+31,Landa Lake,8/6/2002
+51,Landa Lake,8/6/2002
+18,Landa Lake,8/6/2002
+0,Landa Lake,8/7/2002
+134,Landa Lake,8/7/2002
+49,Landa Lake,8/7/2002
+41,Landa Lake,8/7/2002
+76,Landa Lake,8/7/2002
+9,Landa Lake,8/7/2002
+21,Landa Lake,8/7/2002
+0,Old Channel Reach,8/8/2002
+4,Upper New Channel Reach,8/8/2002
+7,Upper New Channel Reach,8/8/2002
+9,Upper New Channel Reach,8/8/2002
+22,Old Channel Reach,8/8/2002
+3,Old Channel Reach,8/8/2002
+55,Old Channel Reach,8/8/2002
+55,Old Channel Reach,8/8/2002
+1,Old Channel Reach,8/8/2002
+0,Upper Spring Run,11/19/2002
+0,Upper Spring Run,11/19/2002
+3,Upper Spring Run,11/19/2002
+10,Upper Spring Run,11/19/2002
+14,Upper Spring Run,11/19/2002
+16,Upper Spring Run,11/19/2002
+20,Landa Lake,11/20/2002
+33,Landa Lake,11/20/2002
+21,Landa Lake,11/20/2002
+27,Landa Lake,11/20/2002
+15,Landa Lake,11/20/2002
+10,Landa Lake,11/20/2002
+9,Landa Lake,11/20/2002
+1,Landa Lake,11/20/2002
+69,Landa Lake,11/20/2002
+85,Landa Lake,11/20/2002
+0,Old Channel Reach,11/21/2002
+2,Upper New Channel Reach,11/21/2002
+1,Upper New Channel Reach,11/21/2002
+5,Old Channel Reach,11/21/2002
+4,Old Channel Reach,11/21/2002
+85,Old Channel Reach,11/21/2002
+22,Old Channel Reach,11/21/2002
+1,Old Channel Reach,11/21/2002
